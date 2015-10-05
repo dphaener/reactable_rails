@@ -1,0 +1,2 @@
+module ReactableRails
+end
